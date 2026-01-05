@@ -1,0 +1,2 @@
+# Blender5AlphabetAmin
+Blender5でAlphabetアニメを作成するまで
